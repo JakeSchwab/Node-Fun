@@ -1,5 +1,9 @@
 # Node-Fun
 
+## Prerequisites
+
+Install node from: https://nodejs.org/en/
+
 ## Usage
 
 1. In terminal, navigate to folder, which should contain this project.
