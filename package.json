@@ -1,0 +1,24 @@
+{
+  "name": "node-fun",
+  "version": "1.0.0",
+  "description": "our fun node learn project",
+  "main": "index.js",
+  "scripts": {
+    "test": "t",
+    "x": "tsc && node ./out/first-typescript.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakeSchwab/Node-Fun.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JakeSchwab/Node-Fun/issues"
+  },
+  "homepage": "https://github.com/JakeSchwab/Node-Fun#readme",
+  "dependencies": {
+    "@types/node": "^9.4.6",
+    "express": "^4.16.2"
+  }
+}
